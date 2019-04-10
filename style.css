@@ -52,7 +52,7 @@ td:nth-child(2) {
 
 .chile > .left {
   grid-column: 1/2;
-  grid-row: 1/3;
+  grid-row: 1/2;
   background: mediumblue;
 
   z-index: 1;
