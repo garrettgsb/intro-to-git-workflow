@@ -1,9 +1,13 @@
 # Introduction to version control workflow with git and GitHub
 
 `git clone https://github.com/garrettgsb/intro-to-git-workflow.git` to clone this repo
-`git log` to look at the log
+
+`git log` to look at the log of previous commits
+
 `git checkout -b my-new-branch` to create a new branch (and check it out)
+
 `git checkout my-old-branch` to check out an existing branch
+
 `git merge master` to merge what's on master into your currently checked-out branch
 
 ## Basic workflow
