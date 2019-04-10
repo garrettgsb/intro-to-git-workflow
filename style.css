@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  background: blanchedalmond;
+}
+
+main {
+  display: flex;
+  background: #EEE;
+  box-shadow: 2px 2px 2px #444;
+  max-width: 80vw;
+}
