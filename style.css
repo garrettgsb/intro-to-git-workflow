@@ -13,3 +13,27 @@ main {
   box-shadow: 2px 2px 2px #444;
   max-width: 80vw;
 }
+
+table {
+  border-collapse: collapse;
+}
+
+tbody > tr:hover {
+  background: #DDE;
+}
+
+tr:nth-child(odd) {
+  background: #DDD;
+}
+
+td {
+  padding: 0.5em 1em;
+}
+
+td:nth-child(1) {
+  border-right: 2px solid #888;
+  font-weight: bolder;
+}
+td:nth-child(2) {
+  text-align: right;
+}
